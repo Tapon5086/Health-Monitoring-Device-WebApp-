@@ -65,5 +65,5 @@ Built with ESP8266, AD8232 ECG, and MAX30100 Pulse Oximeter, this project stream
 2. Ensure the COM port is not already open in Arduino Serial Monitor.
 3. Sensor readings may vary depending on placement and movement — keep still for best results.
 
-Feel Free to ask any questions at preanto15-5059@diu.edu.bd or sabitsworkshop@gmail.com
+Feel Free to ask any questions at paul15-5086@diu.edu.bd or taponpaul250@gmail.com
 
